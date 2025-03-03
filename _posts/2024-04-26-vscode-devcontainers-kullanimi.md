@@ -2,6 +2,20 @@
 title: "Vscode Devcontainers Kullanımı"
 layout: post
 comments: true
+categories:
+  - Categories1
+tags:
+  - [vscode, container]
+
+permalink: /categories1/vscode
+redirect_from:
+  - /categories2/vscode
+
+toc: true
+toc_sticky: true
+
+date: 2024-05-21
+last_modified_at: 2021-10-09
 ---
 
 ## Amac

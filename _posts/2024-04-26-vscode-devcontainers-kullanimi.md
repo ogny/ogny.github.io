@@ -35,7 +35,7 @@ Command line'da:
   gorebilirsiniz, github copilot eklentileri host vscode'dan gelirken eslint ve
   ruby lsp eklentileri microsoft'un imajindan geliyor.
 
-  ![](/assets/img/devcontainer_jekyll_vscode_extensions.png)
+  ![](/assets/images/devcontainer_jekyll_vscode_extensions.png)
 
 
 {::comment}
